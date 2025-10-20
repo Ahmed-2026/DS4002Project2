@@ -4,7 +4,6 @@ import matplotlib.dates as mdates
 import seaborn as sns
 import pandas as pd
 from meteostat import Point, Daily
-from scipy  import stats
 from pathlib import Path
 
 # Load crime data
