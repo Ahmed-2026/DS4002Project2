@@ -57,7 +57,7 @@ daily_counts['Date'] = pd.to_datetime(daily_counts['Date'])
 
 total_offense_counts = crime_df['Offense'].value_counts()
 top12 = total_offense_counts.head(12).index
-daily_top12 = daily_counts[['Date'] + top12].copy()
+daily_top12 = daily_counts[['Date'] + list(top12)].copy()
 
 wx_cols = weather_data[['time', 'tavg']].rename(columns={'time': 'Date'})
 wx_cols['Date'] = pd.to_datetime(wx_cols['Date'])
