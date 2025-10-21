@@ -20,6 +20,7 @@ DS4002PROJECT2
 - 📁 Output Folder
   - `plot1_offense_types.png`: Bar chart of number of incidents of each type of offense
   - `plot2_temp_crime.png`: Line plot of average temperature and number of crimes per day
+  - `plot3_temp_correlation.png`: Bar chart of Pearson correlation between temperature and daily count for top 12 offenses
 - 📁 Scripts Folder
   - `0_processing.py`: Initial processing script to generate exploratory plots
   - `1_correlation.py`: Correlation analysis script
