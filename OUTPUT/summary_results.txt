@@ -1,0 +1,9 @@
+Charlottesville Temperature–Crime Correlation Summary
+Total Crime: r = 0.182, p = 2.298e-15
+
+Top 5 Offenses by Correlation:
+ - Motor Vehicle Theft: r = 0.112, p = 7.65e-07
+ - Vandalism: r = 0.098, p = 1.39e-05
+ - Assault Simple: r = 0.079, p = 3.96e-04
+ - Assist Citizen - Mental/TDO/ECO: r = 0.077, p = 5.08e-04
+ - Hit and Run: r = 0.065, p = 2.70e-03

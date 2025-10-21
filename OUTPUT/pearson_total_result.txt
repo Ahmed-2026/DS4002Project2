@@ -1,0 +1,3 @@
+=== Total Daily Crime vs. Temperature ===
+Pearson r: 0.182150
+One-sided p (H1: r > 0): 2.29767e-15
