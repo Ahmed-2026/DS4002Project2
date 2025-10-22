@@ -3,6 +3,7 @@ import pandas as pd
 from meteostat import Point, Daily
 from pathlib import Path
 from scipy import stats
+import numpy as np
 
 # Load crime data
 parent_path = Path(__file__).parent.parent

@@ -5,6 +5,7 @@ We ran the scripts using VSCode using Windows on an NVIDIA GPU. We also used the
 - datetime
 - matplotlib
 - meteostat
+- numpy
 - pandas
 - pathlib
 - scipy
